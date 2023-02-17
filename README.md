@@ -1,2 +1,2 @@
 # java-common-mistakes
-Java业务开发常见错误
+记录了Java业务开发常见错误，课程来源于
